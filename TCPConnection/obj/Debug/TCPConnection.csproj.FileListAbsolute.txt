@@ -1,0 +1,12 @@
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\bin\Debug\TCPConnection.exe.config
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\bin\Debug\TCPConnection.exe
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\bin\Debug\TCPConnection.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\bin\Debug\MySql.Data.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.csprojResolveAssemblyReference.cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.JoinForm.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.Properties.Resources.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.ClientForm.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.ServerForm.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.csproj.GenerateResource.Cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.exe
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TCPConnection\obj\Debug\TCPConnection.pdb

@@ -1,0 +1,5 @@
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyUtils\bin\Debug\MyUtils.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyUtils\bin\Debug\MyUtils.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyUtils\obj\Debug\MyUtils.csprojResolveAssemblyReference.cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyUtils\obj\Debug\MyUtils.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyUtils\obj\Debug\MyUtils.pdb

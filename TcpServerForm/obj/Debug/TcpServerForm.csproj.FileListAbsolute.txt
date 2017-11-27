@@ -1,0 +1,15 @@
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\TcpServerForm.exe.config
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\TcpServerForm.exe
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\TcpServerForm.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\MyPackets.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\MySql.Data.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\MyPackets.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.csprojResolveAssemblyReference.cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.PrepaidForm.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.ServerForm.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.Properties.Resources.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.csproj.GenerateResource.Cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.exe
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\obj\Debug\TcpServerForm.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\MyUtils.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpServerForm\bin\Debug\MyUtils.pdb

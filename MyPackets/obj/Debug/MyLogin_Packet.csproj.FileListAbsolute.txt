@@ -1,0 +1,9 @@
+E:\win_app\socket2\MyLogin_Packet\bin\Debug\MyLogin_Packet.dll
+E:\win_app\socket2\MyLogin_Packet\bin\Debug\MyLogin_Packet.pdb
+E:\win_app\socket2\MyLogin_Packet\obj\Debug\MyLogin_Packet.dll
+E:\win_app\socket2\MyLogin_Packet\obj\Debug\MyLogin_Packet.pdb
+E:\win_app\socket2\MyLogin_Packet\obj\Debug\MyLogin_Packet.csprojResolveAssemblyReference.cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyLoginPacket\bin\Debug\MyLogin_Packet.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyLoginPacket\bin\Debug\MyLogin_Packet.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyLoginPacket\obj\Debug\MyLogin_Packet.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\MyLoginPacket\obj\Debug\MyLogin_Packet.pdb

@@ -1,0 +1,11 @@
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\bin\Debug\TcpClientForm.exe.config
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\bin\Debug\TcpClientForm.exe
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\bin\Debug\TcpClientForm.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\bin\Debug\MyPackets.dll
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\bin\Debug\MyPackets.pdb
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\obj\Debug\TcpClientForm.csprojResolveAssemblyReference.cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\obj\Debug\TcpClientForm.ClientForm.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\obj\Debug\TcpClientForm.Properties.Resources.resources
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\obj\Debug\TcpClientForm.csproj.GenerateResource.Cache
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\obj\Debug\TcpClientForm.exe
+C:\Users\MBC\Documents\Visual Studio 2013\Projects\TCPConnection\TcpClientForm\obj\Debug\TcpClientForm.pdb
